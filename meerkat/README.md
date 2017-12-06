@@ -7,4 +7,9 @@ Save the animals by switching them back. You will be given an array which will h
 Same goes for all the other arrays/lists that you will get in the tests: you have to change the element positions with the same exact logics - simples!
 
 
-The program takes the array and reverse it.
+-The program takes the array and reverse it.
+
+-our pseudo code :
+1- create a function that reverse the array
+2- assign the array to new array
+3- return new array
