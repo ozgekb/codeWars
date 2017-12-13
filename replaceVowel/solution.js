@@ -1,5 +1,5 @@
 function disemvowel(str) {
 let newStr;
-newStr = str.replace(/[aAeEoOuUiI]/ig,‘’);
+newStr = str.replace(/[aAeEoOuUiI]/g,'');
 return newStr;
 }
